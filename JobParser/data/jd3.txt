@@ -1,0 +1,29 @@
+Embedded Systems & IoT Software Intern (Fake Job Description)
+
+Location: Irvine, CA
+Industry: IoT / Robotics / Semiconductor
+
+About the Role
+We are seeking an Embedded & IoT Software Intern to help develop sensor-driven systems, real-time controllers, and data-driven automation tools. You will work with microcontrollers, edge devices, and cloud-connected applications used across robotics and smart-environment platforms.
+
+Responsibilities
+
+Build embedded C/C++ applications for Raspberry Pi, Arduino, and real-time sensor systems.
+
+Integrate pH, temperature, soil-moisture, and level sensors with automated control loops.
+
+Implement serial communication (UART, I2C, SPI) and GPIO-based device control.
+
+Create dashboards or mobile interfaces for real-time system monitoring.
+
+Develop MySQL/MariaDB pipelines for sensor logging and telemetry analysis.
+
+Optimize reliability through debouncing, power isolation, and hardware calibration.
+
+Preferred Qualifications
+
+Hands-on experience with robotics, aquaponics systems, or environmental monitoring.
+
+Strong debugging skills using multimeters, oscilloscopes, and serial console tools.
+
+Familiarity with Python automation scripts and Linux-based embedded workflows.

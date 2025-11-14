@@ -1,0 +1,29 @@
+Full-Stack LLM Developer Intern (Fake Job Description)
+
+Location: Remote
+Industry: LLM Apps / Developer Tools
+
+About the Role
+We are hiring a Full-Stack LLM Developer Intern to help build intelligent applications powered by modern large-language-model technologies. You will create frontend interfaces, design backend LLM workflows, and implement robust guardrail systems that ensure safe and stable AI output.
+
+Responsibilities
+
+Develop interactive web interfaces using Streamlit, HTML/CSS, and JavaScript.
+
+Build LLM pipelines using LangChain, FastAPI, and multi-provider inference APIs (OpenRouter, OpenAI, HuggingFace).
+
+Implement policy-based guardrails, JSON schema validation, and safe-response enforcement.
+
+Integrate persistent memory systems using MariaDB or PostgreSQL.
+
+Containerize services using Docker Compose and maintain modular, scalable architectures.
+
+Collaborate in Agile sprints, version control, and code reviews.
+
+Preferred Qualifications
+
+Experience building LLM-powered apps (e.g., skincare agent, personalized assistants).
+
+Knowledge of RAG, embeddings, conversation state tracking, and local model deployment.
+
+Familiarity with Git, Docker, and REST API integration.

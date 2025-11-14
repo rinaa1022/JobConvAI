@@ -1,0 +1,29 @@
+AI/ML Engineer Intern (Fake Job Description)
+
+Location: San Francisco, CA (Hybrid)
+Industry: AI / SaaS
+
+About the Role
+We are looking for an AI/ML Engineer Intern to help design, train, and deploy next-generation machine learning features across our platform. You will work closely with senior engineers to build production-ready LLM workflows, develop high-accuracy models, and integrate external knowledge sources into intelligent applications.
+
+Responsibilities
+
+Build and evaluate ML models using Python, NumPy, TensorFlow/Keras, and scikit-learn.
+
+Develop and optimize neural networks for classification, prediction, and recommendation tasks.
+
+Implement RAG pipelines, vector search, and memory-augmented LLM systems.
+
+Deploy containerized ML models using Docker, FastAPI, and cloud-based inference engines.
+
+Analyze model performance with learning curves, confusion matrices, and error breakdowns.
+
+Collaborate with product and research teams to prototype and test new AI features.
+
+Preferred Qualifications
+
+Experience with CNNs, Naive Bayes, and end-to-end ML pipelines.
+
+Familiarity with LLaMA models, vLLM, LoRA fine-tuning, and multi-backend LLM routing.
+
+Strong understanding of data preprocessing, feature engineering, and hyperparameter tuning.
