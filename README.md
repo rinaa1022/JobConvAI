@@ -6,16 +6,22 @@ An AI-powered platform that analyzes resumes and job postings to provide intelli
 
 ```
 ConvAgent/
-├── ResumeParser/           # Resume analysis and parsing module
+├── ResumeParser/          # Resume analysis and parsing module
 │   ├── src/               # Core resume parsing code
+         ├── app.py
+         ├── neo4j_manager.py
+         ├── resume_parser.py
+         ├── resume_schema.py
 │   ├── tests/             # Resume parsing tests
 │   ├── docs/              # Resume parser documentation
 │   └── main.py            # Resume parser standalone app
 ├── JobParser/             # Job fetching and parsing module
-│   ├── job_apis.py        # Job API integrations
-│   ├── job_schema.py      # Job data schemas
-│   ├── job_neo4j_manager.py # Job Neo4j operations
-│   └── job_parser.py      # Main job parsing logic
+    ├── src/               # Core resume parsing code
+         ├── jd_parser.py
+         ├── jd_to_neo4j.py
+         ├── jobs_api.py
+         ├── run_pipeline.py
+│   └── data               # Job descriptions
 ├── main_app.py            # Unified application
 ├── config.py              # Configuration settings
 ├── requirements.txt       # Python dependencies
@@ -212,4 +218,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions or support, please open an issue on GitHub.
+
 
