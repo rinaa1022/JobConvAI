@@ -71,7 +71,7 @@ ConvAgent/
 
 ### Run the Unified Application
 ```bash
-python main_app.py
+python run_matching.py
 ```
 
 ### Run Individual Modules
@@ -83,8 +83,10 @@ python main.py
 ```
 
 **Job Parser Only:**
-```python
-from JobParser.job_parser import JobParser
+```bash
+cd JobParser/src
+python run_pipeline.py
+```
 
 # Initialize job parser
 job_parser = JobParser(neo4j_uri, neo4j_user, neo4j_password)
@@ -210,3 +212,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions or support, please open an issue on GitHub.
+
