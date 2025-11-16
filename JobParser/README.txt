@@ -9,3 +9,6 @@ src/fastapi_app.py – optional API to query the graph
 
 export OPENAI_API_KEY=
 export NEO4J_PASSWORD=
+
+Run job parser with job descriptions
+python run_pipeline.py ./jd1.txt jd2.txt jd3.txt 
